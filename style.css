@@ -1,7 +1,12 @@
 body {
     background-color: gray;
     color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
 }
+
+
 
 #parentBOX-1,
 #parentBOX-2,
