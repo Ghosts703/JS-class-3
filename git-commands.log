@@ -1,0 +1,5 @@
+git config --global user.name 'mdabdullahbaloch'
+git config --global user.email 'abdullah356abdullhameed@gmail.com'
+git commmit -m 'first commit'
+git remote add origin https://github.com/mdabdullahbaloch\demo.git 
+git push -u origin master

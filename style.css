@@ -1,0 +1,55 @@
+body {
+    background-color: gray;
+    color: white;
+}
+
+#parentBOX-1,
+#parentBOX-2,
+#parentBOX-3,
+#parentBOX-4,
+#parentBOX-5,
+#parentBOX-6,
+#parentBOX-7,
+#parentBOX-8 {
+    display: flex;
+}
+
+.box1,
+.box3,
+.box5,
+.box7 {
+    background-color: rgb(70, 155, 70);
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.box2,
+.box4,
+.box6,
+.box8 {
+    background-color: rgba(255, 255, 255, 0.718);
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.box11,
+.box33,
+.box55,
+.box77 {
+    background-color: rgba(255, 255, 255, 0.718);
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.box22,
+.box44,
+.box66,
+.box88 {
+    background-color: rgb(70, 155, 70);
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
